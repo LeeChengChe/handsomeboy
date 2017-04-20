@@ -2,7 +2,7 @@
 from __future__ import division
 from matplotlib import pyplot as plt
 import datetime,random,time
-import numpy as np
+import nump
 
 print "---第二題---"
 # lambda
